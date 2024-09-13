@@ -1,16 +1,14 @@
-## Hi there 👋
+# Bienvenue! 👋
 
-<!--
-**Nicolas-B06/Nicolas-B06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merci de visiter mon profil GitHub. Je suis en pleine réorganisation de mes projets, donc certaines sections sont encore en cours de mise à jour.
 
-Here are some ideas to get you started:
+## 📞 Me joindre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si vous avez des questions ou souhaitez collaborer, voici mes coordonnées :
+
+- 📧 Email : [bernardnicolas06600@gmail.com](mailto:bernardnicolas06600@gmail.com)
+- 🌐 LinkedIn : [Nicolas BERNARD]([https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/bernard-nicolas-06600/))
+
+Je vous invite à revenir voir les nouveautés bientôt!
+
+
